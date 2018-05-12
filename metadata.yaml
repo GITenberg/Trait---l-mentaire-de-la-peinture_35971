@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
     - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35971#Trait---l-mentaire-de-la-peinture
 gutenberg_bookshelf: FR Peinture
 gutenberg_issued: '2011-04-26'
 gutenberg_type: Text
