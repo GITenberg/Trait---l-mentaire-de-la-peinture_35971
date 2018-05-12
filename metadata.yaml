@@ -1,0 +1,42 @@
+_repo: Trait---l-mentaire-de-la-peinture_35971
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Poussin, Nicolas
+    deathdate: 1665
+    gutenberg_agent_id: '38008'
+    url: http://www.gutenberg.org/2009/agents/38008
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leonardo, da Vinci
+    aliases:
+    - Da Vinci, Leonardo
+    - Vinci, Léonard de
+    - Vinci, Leonardo da
+    birthdate: 1452
+    deathdate: 1519
+    gutenberg_agent_id: '1629'
+    url: http://www.gutenberg.org/2009/agents/1629
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
+    - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+description: ''
+gutenberg_bookshelf: FR Peinture
+gutenberg_issued: '2011-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35971'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Leonardo, da Vinci, 1452-1519'
+- !lcsh 'Painting -- Technique -- Early works to 1800'
+title: "Traité élémentaire de la peinture,\r\navec 58 figures d'après les dessins\
+  \ originaux de Le Poussin, dont 34 en taille-douce"
+url: http://www.gutenberg.org/ebooks/35971
